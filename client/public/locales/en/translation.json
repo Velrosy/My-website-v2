@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Pixel Dreams",
+    "title": "Pixel-art Developer & Designer",
+    "subtitle": "I build modern web apps and playful pixel experiences.",
+    "cta": "Let's Connect",
+    "altHeroCharacter": "Cute pixel-art character with magical sparkles"
+  },
+  "about": {
+    "title": "About Me",
+    "bio": "I'm a passionate developer and designer who loves combining modern web technologies with nostalgic pixel-art aesthetics. My work focuses on creating delightful, whimsical experiences that bring joy to users.",
+    "skillsTitle": "Skills & Tech",
+    "timelineTitle": "Journey",
+    "altTypingCharacter": "Pixel character sitting at laptop typing"
+  },
+  "projects": {
+    "title": "My Projects",
+    "filterAll": "All",
+    "filterWeb": "Web",
+    "filterArt": "Art",
+    "filterGame": "Game",
+    "filterUiux": "UI/UX",
+    "searchPlaceholder": "Search projects...",
+    "sortRecent": "Most Recent",
+    "sortFeatured": "Featured",
+    "sortViewed": "Most Viewed",
+    "liveButton": "Live",
+    "codeButton": "Code",
+    "detailsButton": "Details",
+    "role": "Role",
+    "timeframe": "Timeframe",
+    "whatILearned": "What I Learned",
+    "techStack": "Tech Stack",
+    "closeModal": "Close",
+    "noProjects": "No projects found"
+  },
+  "player": {
+    "play": "Play",
+    "pause": "Pause",
+    "next": "Next track",
+    "previous": "Previous track",
+    "stop": "Stop",
+    "volume": "Volume",
+    "seekBar": "Seek bar - drag to change position",
+    "minimize": "Minimize player",
+    "maximize": "Maximize player",
+    "connectSpotify": "Connect to Spotify",
+    "fallbackMessage": "For in-browser playback, connect Spotify Premium or open in Spotify app",
+    "openSpotify": "Open in Spotify",
+    "deviceSelector": "Select device",
+    "shortcuts": {
+      "space": "Space = Play/Pause",
+      "leftArrow": "← = Seek -10s",
+      "rightArrow": "→ = Seek +10s",
+      "upArrow": "↑ = Volume +5%",
+      "downArrow": "↓ = Volume -5%"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "your@email.com",
+    "messagePlaceholder": "Tell me about your project...",
+    "sendButton": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent! I'll get back to you soon.",
+    "error": "Oops! Something went wrong. Please try again.",
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email",
+    "messageRequired": "Message is required"
+  },
+  "footer": {
+    "credits": "Made with ♥ and pixels",
+    "themeToggle": "Toggle theme"
+  },
+  "aria": {
+    "languageToggle": "Toggle language between English and Arabic",
+    "themeToggle": "Toggle between light and dark mode",
+    "skipToMain": "Skip to main content",
+    "closeModal": "Close modal",
+    "projectCard": "Project card for",
+    "socialLink": "Visit my"
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "network": "Network error. Please check your connection.",
+    "notFound": "Page not found"
+  }
+}
